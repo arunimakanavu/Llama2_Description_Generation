@@ -98,3 +98,8 @@ See: **Desc Set 1** (example descriptions for batch-6)
 
 ## **Conclusion**
 Using a blend of **automated LLM-powered generation** and **human-led refinement**, this plan ensures high-quality L3 category descriptions can be completed within **2 working days** (~12–14 hours total). Contextual accuracy, speed, and consistency are balanced effectively with this hybrid approach.
+
+## Author
+
+Developed by [Arunima Surendran](https://github.com/arunimakanavu)
+
